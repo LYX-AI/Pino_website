@@ -1,2 +1,5 @@
 #everything the developer needs in additioin to the production requirements
 -r prod.txt
+
+black==19.10b0
+mypy==0.782
